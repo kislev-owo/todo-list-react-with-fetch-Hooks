@@ -11,3 +11,22 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.box {
+    width: 1rem;
+    height: 1rem;
+    background-color: black;
+    margin: 0.5rem;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: -40px;
+}
+
+h2{
+    display: flex;
+   justify-content: center;
+   font-size: 80px;
+}
+
+
